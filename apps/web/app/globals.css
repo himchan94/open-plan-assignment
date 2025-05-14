@@ -1,4 +1,7 @@
+@import "./font-import.css";
 @import "tailwindcss";
 @import "@repo/tailwind-config";
 @import "@repo/ui/styles.css";
+@import "./fonts.css";
+@import "./utilities.css";
 @config "../tailwind.config.js";

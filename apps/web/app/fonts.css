@@ -1,0 +1,11 @@
+/* 폰트 정의 */
+:root {
+  --font-pretendard:
+    Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, sans-serif;
+
+  color: #111;
+}
+
+.font-pretendard {
+  font-family: var(--font-pretendard);
+}

@@ -1,0 +1,17 @@
+/* 텍스트 스타일 유틸리티 */
+
+.text-medium {
+  font-family: Pretendard;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 140%;
+  letter-spacing: -0.3px;
+}
+
+.text-semi-bold {
+  font-family: Pretendard;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 148%;
+  letter-spacing: -0.32px;
+}
