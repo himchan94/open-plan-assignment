@@ -5,7 +5,6 @@ interface ButtonProps {
   label: string;
   isLoading?: boolean;
   className?: string;
-  size?: "sm" | "md" | "lg";
 }
 
 const Button: React.FC<ButtonProps> = ({
